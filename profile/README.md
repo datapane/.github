@@ -4,13 +4,16 @@
   </a>
 </p>
 <p align="center">
-  <a href="https://github.com/datapane/datapane">Source</a> |
   <a href="https://datapane.com">Datapane.com</a> |
+  <a href="https://github.com/datapane/datapane">Source</a> |
   <a href="https://docs.datapane.com">Docs</a> |
       <a href="https://datapane.com/showcase">Examples</a> |
   <a href="https://forum.datapane.com">Forums</a>   | <a href="https://chat.datapane.com">Discord</a>
 </p>
 <p align='center'>
+  <a href="https://github.com/datapane/datapane/">
+      <img src="https://img.shields.io/github/stars/datapane/datapane?style=social" alt="GitHub Stars" />
+  </a>
   <a href="https://pypi.org/project/datapane/">
       <img src="https://img.shields.io/pypi/dm/datapane?label=pip%20downloads" alt="Pip Downloads" />
   </a>

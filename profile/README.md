@@ -8,7 +8,7 @@
   <a href="https://github.com/datapane/datapane">Source</a> |
   <a href="https://docs.datapane.com">Docs</a> |
       <a href="https://datapane.com/showcase">Examples</a> |
-  <a href="https://forum.datapane.com">Forums</a>   | <a href="https://chat.datapane.com">Discord</a>
+  <a href="https://datapane.nolt.io">Roadmap & Feature Suggestions</a>   | <a href="https://chat.datapane.com">Discord</a>
 </p>
 <p align='center'>
   <a href="https://github.com/datapane/datapane/">

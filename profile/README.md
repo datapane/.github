@@ -9,7 +9,7 @@
   <a href="https://docs.datapane.com">Docs</a> |
   <a href="https://datapane.com/gallery">Gallery</a> |
   <a href="https://github.com/datapane/examples">Examples</a> |
-  <a href="https://forum.datapane.com">Discuss</a> |
+  <a href="https://forum.datapane.com">Discuss</a>
 </p>
 <p align='center'>
   <a href="https://github.com/datapane/datapane/">

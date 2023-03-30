@@ -4,11 +4,11 @@
   </a>
 </p>
 <p align="center">
-  <a href="https://datapane.com">Datapane.com</a> |
+  <a href="https://datapane.com">Home</a> |
   <a href="https://github.com/datapane/datapane">Source</a> |
   <a href="https://docs.datapane.com">Docs</a> |
-      <a href="https://datapane.com/showcase">Examples</a> |
-  <a href="https://datapane.nolt.io">Roadmap & Feature Suggestions</a>   | <a href="https://chat.datapane.com">Discord</a>
+  <a href="https://datapane.com/showcase">Examples</a> |
+  <a href="https://forum.datapane.com">Discuss</a>
 </p>
 <p align='center'>
   <a href="https://github.com/datapane/datapane/">
@@ -65,7 +65,7 @@ $ pip3 install -U datapane
 #### conda
 
 ```
-$ conda install -c conda-forge "datapane>=0.14.0"
+$ conda install -c conda-forge "datapane>=0.16.0"
 ```
 
 Datapane also works well in hosted Jupyter environments such as Colab or Binder, where you can install as follows:
@@ -74,18 +74,9 @@ Datapane also works well in hosted Jupyter environments such as Colab or Binder,
 !pip3 install --quiet datapane
 ```
 
-# Demos and Examples
-
-Here a few samples of the top reports created by the Datapane community.
-
--   [Coindesk analysis](https://datapane.com/u/greg/reports/initial-coindesk-article-data/) by Greg Allan
--   [COVID-19 Trends by Quarter](https://datapane.com/u/keith8/reports/covid-19-trends-by-quarter/) by Keith Johnson
--   [Ecommerce Report](https://datapane.com/u/leo/reports/e-commerce-report/) by Leo Anthias
--   [Example Academic Paper](https://datapane.com/u/kalru/reports/supplementary-material/) by Kalvyn Roux
--   [Exploration of Restaurants in Kyoto](https://datapane.com/u/ryancahildebrandt/reports/kyoto-in-stations-and-restaurants/) by Ryan Hildebrandt
-
 # Next Steps
 
--   [Join Discord](https://chat.datapane.com)
--   [Sign up for a free account](https://datapane.com/accounts/signup)
+-   [View Examples](https://github.com/datapane/examples)
 -   [Read the documentation](https://docs.datapane.com)
+-   [Discuss with the community](https://forum.datapane.com)
+-   [Sign up for a free Cloud account](https://datapane.com/accounts/signup)
